@@ -1,0 +1,9 @@
+# DSH 运行数据：体积大，且含本机凭据/会话，绝不入库
+caches/
+dsh-home/
+local-updater/
+roaming-at-deepseek-ai/
+workspace/
+
+# 日志与迁移产物
+*.log
